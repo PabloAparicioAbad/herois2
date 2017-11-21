@@ -5,6 +5,5 @@
 * Daredevil
 * Aquaman
 * Mujer Maravilla
-* Jessica Jones es de DC
-* Capitan America
+* Jessica Jones es de Marvel
 * Spiderman
